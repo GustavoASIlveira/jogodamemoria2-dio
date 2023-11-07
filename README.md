@@ -2,7 +2,8 @@
 Jogo desenvolvido como parte do Bootcamp Potência Tech iFood - Desenvolvimento de Jogos
 
 ## Características do projeto
-O jogo utiliza elementos do DOM e css para configurar os componentes e Javascript para a lógica do jogo.
+O jogo utiliza elementos do DOM criados dinamicamente com JS e css para configurar os componentes. 
+Toda a lógica do jogo é controlada em JS.
 
 ## Melhorias implementadas
 Foi adicionada uma temática infantil.
